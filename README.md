@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HackingLion237
+- 👋 Hi, I’m lilian fokam
 - 👀 I’m interested in Artificial intelligence, Cyber security, Database Management 
 - 🌱 I’m currently learning Software engineering (Java,C, C++ , C#,.....)
 - 💞️ I’m looking to collaborate on Artificial intelligence projects as well as any software project
